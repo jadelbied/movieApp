@@ -11,7 +11,7 @@
 	<groupId>com.movieproject</groupId>
 	<artifactId>moviesapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>moviesapp</name>
+	<name>movies-app</name>
 	<description>Application API film</description>
 	<properties>
 		<java.version>17</java.version>
